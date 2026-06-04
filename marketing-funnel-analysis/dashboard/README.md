@@ -3,6 +3,8 @@
 This folder contains screenshots of the Looker Studio dashboard.
 
 ## Business Overview
+High-level executive dashboard showing acquisition performance,
+conversion efficiency, and device analysis.
 
 ![Business Overview](business_overview.jpg)
 
