@@ -2,8 +2,16 @@
 
 This folder contains screenshots of the Looker Studio dashboard.
 
-Pages:
-- Business Overview
-- Funnel Deep Dive
+## Business Overview
 
-This dashboard was developed in Looker Studio using reporting tables built in Google BigQuery
+![Business Overview](business_overview.jpg)
+
+---
+
+## Funnel Deep Dive
+
+![Funnel Deep Dive](funnel_deep_dive.jpg)
+
+---
+
+This dashboard was developed in Looker Studio using reporting tables built in Google BigQuery.
