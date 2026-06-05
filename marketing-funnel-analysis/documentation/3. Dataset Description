@@ -1,0 +1,15 @@
+## Dataset
+
+Tables used:
+
+- website_sessions
+- website_pageview
+- order
+
+Key fields:
+
+- website_session_id
+- utm_source
+- device_type
+- pageview_url
+- order_id
