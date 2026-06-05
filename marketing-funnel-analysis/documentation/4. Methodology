@@ -1,0 +1,10 @@
+## Methodology
+
+1. Analyze traffic source distribution.
+2. Calculate orders by source.
+3. Calculate conversion rates.
+4. Analyze device performance.
+5. Build funnel stage reporting.
+6. Calculate drop-off rates.
+7. Create reporting tables in BigQuery.
+8. Visualize insights in Looker Studio.
