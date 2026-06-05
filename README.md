@@ -64,11 +64,15 @@ marketing-funnel-analysis/
 
 ---
 
-### Dashboard Preview
+## Dashboard Preview
 
-See full dashboard screenshots here:
+### Business Overview
 
-[Dashboard Folder](./marketing-funnel-analysis/dashboard)
+![Business Overview](marketing-funnel-analysis/dashboard/business_overview.jpg)
+
+### Funnel Deep Dive
+
+![Funnel Deep Dive](marketing-funnel-analysis/dashboard/funnel_deep_dive.jpg)
 
 ---
 
@@ -85,6 +89,20 @@ See full project documentation here:
 See SQL analysis and reporting queries here:
 
 [SQL Folder](./marketing-funnel-analysis/sql)
+
+---
+
+### Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Data Aggregation
+- Funnel Analysis
+- Conversion Rate Analysis
+- Data Visualization
+- Business Intelligence
+- Google BigQuery
+- Looker Studio
 
 ---
 
