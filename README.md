@@ -1,4 +1,4 @@
-![Project Banner](banner)
+![Project Banner](Banner.png)
 
 # Marketing Analytics Portfolio
 
