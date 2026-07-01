@@ -1,3 +1,5 @@
+![Project Banner](banner)
+
 # Marketing Analytics Portfolio
 
 This repository showcases marketing analytics projects built using SQL, Google BigQuery, and Looker Studio.
